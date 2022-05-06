@@ -1,0 +1,359 @@
+{
+    "msg": "ok",
+    "chiefBonus": {},
+    "coming": [],
+    "movieIds": [
+        1328765,
+        1298265,
+        1359726,
+        522013,
+        1446115,
+        1263216,
+        1298049,
+        1357983,
+        1433696,
+        1331267,
+        1324722,
+        1383307,
+        1405863,
+        1048263,
+        1250907,
+        341284,
+        1367251,
+        338380,
+        1299976,
+        1355569,
+        1338984
+    ],
+    "schemaUrl": "maoyan://maoyan.com/filmlist?index=onshow",
+    "stid": "576591972453269000",
+    "stids": [
+        {
+            "movieId": 1328765,
+            "stid": "576591972453269000_a1328765_c0"
+        },
+        {
+            "movieId": 1298265,
+            "stid": "576591972453269000_a1298265_c1"
+        },
+        {
+            "movieId": 1359726,
+            "stid": "576591972453269000_a1359726_c2"
+        },
+        {
+            "movieId": 522013,
+            "stid": "576591972453269000_a522013_c3"
+        },
+        {
+            "movieId": 1446115,
+            "stid": "576591972453269000_a1446115_c4"
+        },
+        {
+            "movieId": 1263216,
+            "stid": "576591972453269000_a1263216_c5"
+        },
+        {
+            "movieId": 1298049,
+            "stid": "576591972453269000_a1298049_c6"
+        },
+        {
+            "movieId": 1357983,
+            "stid": "576591972453269000_a1357983_c7"
+        },
+        {
+            "movieId": 1433696,
+            "stid": "576591972453269000_a1433696_c8"
+        },
+        {
+            "movieId": 1331267,
+            "stid": "576591972453269000_a1331267_c9"
+        },
+        {
+            "movieId": 1324722,
+            "stid": "576591972453269000_a1324722_c10"
+        },
+        {
+            "movieId": 1383307,
+            "stid": "576591972453269000_a1383307_c11"
+        }
+    ],
+    "total": 21,
+    "movieList": [
+        {
+            "id": 1328765,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd69ae7a5bff0ee230fed0210646bfdde9.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "",
+            "nm": "我是真的讨厌异地恋",
+            "preShow": false,
+            "sc": 8.3,
+            "globalReleased": true,
+            "wish": 355457,
+            "star": "任敏,辛云来,李孝谦",
+            "rt": "2022-04-29",
+            "showInfo": "今天10家影院放映79场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月29日 周五",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1298265,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd69a030c7eaf330e13fb0b08a6695f6f7.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "v3d",
+            "nm": "坏蛋联盟",
+            "preShow": false,
+            "sc": 9.1,
+            "globalReleased": true,
+            "wish": 25245,
+            "star": "山姆·洛克威尔,秦昊,奥卡菲娜",
+            "rt": "2022-04-29",
+            "showInfo": "今天10家影院放映43场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月29日 周五",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1359726,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd6022c98070e13f2aa3268512a1467db6.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "",
+            "nm": "边缘行者",
+            "preShow": false,
+            "sc": 8.1,
+            "globalReleased": true,
+            "wish": 63558,
+            "star": "任贤齐,任达华,方中信",
+            "rt": "2022-04-15",
+            "showInfo": "今天9家影院放映22场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月15日 周五",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 522013,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd602d7c807d7c3cbae3e4517bbee2a46d.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "v2d imax",
+            "nm": "神奇动物:邓布利多之谜",
+            "preShow": false,
+            "sc": 7.9,
+            "globalReleased": true,
+            "wish": 347734,
+            "star": "埃迪·雷德梅恩,艾莉森·苏朵儿,裘德·洛",
+            "rt": "2022-04-08",
+            "showInfo": "今天9家影院放映17场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月8日 周五",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1446115,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd6be9abc7e8d3311e5bd9b6d287be0f28.png?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "v2d imax",
+            "nm": "长津湖之水门桥",
+            "preShow": false,
+            "sc": 9.6,
+            "globalReleased": true,
+            "wish": 1155811,
+            "star": "吴京,易烊千玺,朱亚文",
+            "rt": "2022-02-01",
+            "showInfo": "今天5家影院放映12场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "2月1日 周二",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1263216,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd69a8eac7e7a3539dd3abbabc299e2f10.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "",
+            "nm": "精灵旅社4：变身大冒险",
+            "preShow": false,
+            "sc": 9.1,
+            "globalReleased": true,
+            "wish": 146663,
+            "star": "布赖恩·哈尔,安迪·萨姆伯格,赛琳娜·戈麦斯",
+            "rt": "2022-04-03",
+            "showInfo": "今天6家影院放映12场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月3日 周日",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1298049,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd69a030338ddd2300b1f3b191305438ba.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "",
+            "nm": "密室逃生2",
+            "preShow": false,
+            "sc": 8.4,
+            "globalReleased": true,
+            "wish": 40149,
+            "star": "泰勒·拉塞尔,洛根·米勒,霍兰·罗登",
+            "rt": "2022-04-02",
+            "showInfo": "今天5家影院放映8场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月2日 周六",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1357983,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd6020307e150c87e127cdd2e03061fbf6.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "",
+            "nm": "只要你过得比我好",
+            "preShow": false,
+            "sc": 9.2,
+            "globalReleased": true,
+            "wish": 31203,
+            "star": "曹炳琨,田浩宁,林博洋",
+            "rt": "2022-04-30",
+            "showInfo": "今天3家影院放映5场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月30日 周六",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1433696,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd602e7addd030c0faf9ba75f9eb071fea.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "",
+            "nm": "这个杀手不太冷静",
+            "preShow": false,
+            "sc": 9.1,
+            "globalReleased": true,
+            "wish": 555706,
+            "star": "马丽,魏翔,陈明昊",
+            "rt": "2022-02-01",
+            "showInfo": "今天2家影院放映2场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "2月1日 周二",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1331267,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/d2dad5927a3be17e1202ff9da6032ddc9e7ad.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "",
+            "nm": "一点就到家",
+            "preShow": false,
+            "sc": 9.2,
+            "globalReleased": true,
+            "wish": 55276,
+            "star": "刘昊然,彭昱畅,尹昉",
+            "rt": "2022-04-30",
+            "showInfo": "今天2家影院放映3场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月30日 周六",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1324722,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd6020305bf11e5030cfbe4a03164c5874.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "",
+            "nm": "出拳吧，妈妈",
+            "preShow": false,
+            "sc": 0,
+            "globalReleased": true,
+            "wish": 8133,
+            "star": "谭卓,田雨,田海蓉",
+            "rt": "2022-04-30",
+            "showInfo": "今天3家影院放映3场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "4月30日 周六",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        },
+        {
+            "id": 1383307,
+            "haspromotionTag": false,
+            "img": "https://p0.pipi.cn/mmdb/25bfd68de7adddddd2395b4c04f4737cd31fc.jpg?imageMogr2/thumbnail/2500x2500%3E",
+            "version": "v2d imax",
+            "nm": "奇迹·笨小孩",
+            "preShow": false,
+            "sc": 9.5,
+            "globalReleased": true,
+            "wish": 686040,
+            "star": "易烊千玺,田雨,陈哈琳",
+            "rt": "2022-02-01",
+            "showInfo": "今天1家影院放映2场",
+            "showst": 3,
+            "wishst": 0,
+            "comingTitle": "2月1日 周二",
+            "showStateButton": {
+                "color": "#F03D37",
+                "content": "购票",
+                "onlyPreShow": false,
+                "shadowColor": "rgba(240,61,55, 0.15)"
+            }
+        }
+    ]
+}
