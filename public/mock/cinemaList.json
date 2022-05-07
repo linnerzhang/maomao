@@ -1,0 +1,442 @@
+{
+    "msg": "ok",
+    "cinemas": [
+        {
+            "id": 16832,
+            "mark": 0,
+            "nm": "中影华臣影城（石榴中心店）",
+            "sellPrice": "19.9",
+            "addr": "丰台区榴乡路88号院石榴中心斯坦福广场B1层",
+            "distance": "1158.4km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": ""
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 17023,
+            "mark": 0,
+            "nm": "保利国际影城（天安门店）",
+            "sellPrice": "25",
+            "addr": "西城区煤市街廊房头条交叉口东北角北京坊东区B1-B2层",
+            "distance": "1165km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "杜比全景声厅",
+                    "4K厅",
+                    "60帧厅",
+                    "巨幕厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "4K厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "60帧厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "巨幕厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，14元起开卡",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 25270,
+            "mark": 0,
+            "nm": "元影城",
+            "sellPrice": "38",
+            "addr": "朝阳区安立路 28 号院华创生活广场 1层",
+            "distance": "1178km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张票最高立减4元起",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 2392,
+            "mark": 0,
+            "nm": "保利国际影城（北京缤纷城店）",
+            "sellPrice": "39.9",
+            "addr": "大兴区黄村镇金星西路3号院3号楼绿地缤纷城4层07商铺",
+            "distance": "1152.9km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "4K厅",
+                    "巨幕厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "4K厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "巨幕厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，14元起开卡",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 14430,
+            "mark": 0,
+            "nm": "保利国际影城（东坝店）",
+            "sellPrice": "40",
+            "addr": "朝阳区东坝中路38号金隅嘉品MALL5层",
+            "distance": "1166.3km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "杜比全景声厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，14元起开卡",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 25061,
+            "mark": 0,
+            "nm": "晟嘉国际影城（新华百货店）",
+            "sellPrice": "54.6",
+            "addr": "西城区新街口北大街1号新华百货5层",
+            "distance": "1171km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "杜比全景声厅",
+                    "4D厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "4D厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张票最高立减3元起",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 9459,
+            "mark": 0,
+            "nm": "中间影院",
+            "sellPrice": "123",
+            "addr": "海淀区杏石口路中间艺术园区内（中间艺术园区内）",
+            "distance": "1175.8km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "4K厅",
+                    "ALPD Pro高亮厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "4K厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "ALPD Pro高亮厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": ""
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 23,
+            "mark": 0,
+            "nm": "百丽宫影城（国贸店）",
+            "sellPrice": "125",
+            "addr": "朝阳区建国门外大街1号国贸商城北区B1层B120",
+            "distance": "1164.7km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "RealD厅",
+                    "60帧厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "RealD厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 269,
+            "mark": 0,
+            "nm": "百老汇影城（东方广场店）",
+            "sellPrice": "125",
+            "addr": "东城区东长安街1号东方新天地LG层第五区BB65",
+            "distance": "1165.6km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "RealD厅",
+                    "60帧厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "RealD厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 94,
+            "mark": 0,
+            "nm": "百老汇电影中心（万国城店）",
+            "sellPrice": "125",
+            "addr": "东城区香河园路1号当代MOMA北区T4座（近东直门公交枢纽）",
+            "distance": "1169.3km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        }
+    ],
+    "ct_pois": [
+        {
+            "ct_poi": "936879945111165696_a16832_c0",
+            "poiid": 150259374
+        },
+        {
+            "ct_poi": "936879945111165696_a17023_c1",
+            "poiid": 150609037
+        },
+        {
+            "ct_poi": "936879945111165696_a25270_c2",
+            "poiid": 170567772
+        },
+        {
+            "ct_poi": "936879945111165696_a2392_c3",
+            "poiid": 1481117
+        },
+        {
+            "ct_poi": "936879945111165696_a14430_c4",
+            "poiid": 73452594
+        },
+        {
+            "ct_poi": "936879945111165696_a25061_c5",
+            "poiid": 165629027
+        },
+        {
+            "ct_poi": "936879945111165696_a9459_c6",
+            "poiid": 4572438
+        },
+        {
+            "ct_poi": "936879945111165696_a23_c7",
+            "poiid": 3281398
+        },
+        {
+            "ct_poi": "936879945111165696_a269_c8",
+            "poiid": 271409
+        },
+        {
+            "ct_poi": "936879945111165696_a94_c9",
+            "poiid": 1076062
+        }
+    ],
+    "paging": {
+        "hasMore": true,
+        "limit": 10,
+        "offset": 0,
+        "total": 286
+    }
+}
